@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../Adding tables"
+		},
+		{
+			"path": "../Radio Check button"
+		},
+		{
+			"path": "../CSS"
+		},
+		{
+			"path": "../Static"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Radio Check button"
+	}
+}
